@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Jack Tanner's Website
 
 You can use the [editor on GitHub](https://github.com/JackCrossing05/Jack-Tanner_2021-2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
