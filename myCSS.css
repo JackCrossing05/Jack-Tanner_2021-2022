@@ -7,11 +7,11 @@ body {
 	background: #222222;
 }
 .container {
-	width: 960px;
+	width: 100%;
 	margin: 0 auto;
 }
 .header {
-	background: #AAAAAA;
+	background: #40636B;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
