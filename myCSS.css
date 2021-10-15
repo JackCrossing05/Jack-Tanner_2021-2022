@@ -5,6 +5,7 @@ body {
 }
 .homePage {
 	background: #222222;
+	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
 }
 .container {
 	width: 100%;
